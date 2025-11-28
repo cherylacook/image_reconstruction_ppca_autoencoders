@@ -47,7 +47,7 @@ Ensure this is in the working directory when running the notebooks.
 **Reconstruction Examples**
 
 - [pPCA reconstructions](pPCA_reconstructions.png)  
-- [Linear Autoencoder reconstructions](Linear_reconstructions.png)  
+- [Linear Autoencoder reconstructions](linear_reconstructions.png)  
 - [ReLU Autoencoder reconstructions](ReLU_reconstructions.png)
 
 **Insights:**
