@@ -7,6 +7,7 @@ Compress and reconstruct images using probabilistic PCA (pPCA), a linear autoenc
 
 ## Data
 - `X.npy` – Grayscale images of shape (34, 48).
+
 Ensure this is in the working directory when running the notebooks.
 
 ## Methods
