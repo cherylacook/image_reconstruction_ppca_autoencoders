@@ -28,11 +28,12 @@ Ensure this is in the working directory when running the notebooks.
  
 ## Results
 
-| Method           | Latent Dim | Final Reconstruction Loss (MSE) | Latent Space Structure                 |
+| Method           | Latent Dim | Final Reconstruction MSE | Latent Space Structure                 |
 |-----------------|------------|-----------------|---------------------------------------|
 | pPCA            | 50         | ≈ 276           | Oval (Gaussian, linear)               |
 | Linear Autoencoder | 2        | ≈ 1744          | Linear line                             |
 | ReLU Autoencoder  | 2        | ≈ 1114          | Curved, nonlinear       |
+*Note: MSE for pPCA is from the EM algorithm; for autoencoders, it is the training reconstruction error.*
 
 ### Visualisations
 
